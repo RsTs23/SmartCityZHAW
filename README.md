@@ -1,1 +1,3 @@
 # SmartCityZHAW
+In diesem Projekt durfte ich ein interaktives Dashboard mit R Shiny für die Smart City Survey erstellen. Hier der Link zur Onlineversion: https://dashboard.smartcity-survey.ch/de/
+Der Smart City Survey der ZHAW ist eine regelmässige Umfrage in Zusammenarbeit mit Kollaborationspartnern zum Stand der Entwicklung und Trends sowie zu den Bedürfnissen von Städten und Gemeinden in der Schweiz bei ihrer Transformation zu Smart Sustainable Cities & Communities wie auch bei der Umsetzung von Smart-City-Lösungen. Die Resultate basieren auf Selbsteinschätzungen verschiedener Städtevertreter. Der Survey wurde zwischen Januar 2020 und April 2020 durchgeführt.
